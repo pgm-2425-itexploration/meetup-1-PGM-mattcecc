@@ -24,7 +24,7 @@ Volg de onderstaande stappen om het project lokaal op te zetten:
 1. **Clone de repository:**
    ```bash
    git clone https://github.com/pgm-2425-itexploration/meetup-1-PGM-mattcecc.git
-   cd umbraco-poc
+   cd MyUmbracoProject
    ```
 2. **Herstel NuGet-pakketten:**
    ```bash
